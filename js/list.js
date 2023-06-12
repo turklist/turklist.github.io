@@ -378,6 +378,12 @@ const d = {
 					"percent": "100",
 					"hz": "300Hz"
 				},	
+				{
+					"user": "Nurox",
+					"link": "https://youtu.be/IeTom1VNtLs",
+					"percent": "100",
+					"hz": "360Hz"
+				},	
 		
 		
 		],
