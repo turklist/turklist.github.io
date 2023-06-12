@@ -12,13 +12,13 @@ const d = {
 
 
       ],
-			"name": "Waver",
-			"author": "MArmada [EvoPot]",
+			"name": "Frozen Cave",
+			"author": "TyakyoFyai [Holojen]",
 			"more": "none",
 			"id": 91471158,
-			"pass": "yok",
-			"percentToQualify": 60,
-			"verificationVid": "",
+			"pass": "060521",
+			"percentToQualify": 55,
+			"verificationVid": "https://youtu.be/CD0OvUJleLc",
 			"key": 0
 		},
 		/*=================================================================================*/
