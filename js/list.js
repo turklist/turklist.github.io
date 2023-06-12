@@ -4,50 +4,24 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Waxyss",
-					"link": "www.youtube.com/watch?v=jpvBBeVg9Yk&ab_channel=Lacey",
-					"percent": "99",
-					"hz": "240Hz"
-				},	
-				{
-					"user": "gorgun",
-					"link": "www.youtube.com/watch?v=jpvBBeVg9Yk&ab_channel=Lacey",
-					"percent": "100",
-					"hz": "240Hz"
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
 				},	
 
+
       ],
-			"name": "Waxyss Challenge",
-			"author": "Lacey [Lacey]",
+			"name": "Waver",
+			"author": "MArmada [EvoPot]",
 			"more": "none",
-			"id": 89653568,
+			"id": 91471158,
 			"pass": "yok",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/uRe5VE-91HI",
 			"key": 0
 		},
 		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Lacey",
-					"link": "www.youtube.com/watch?v=jpvBBeVg9Yk&ab_channel=Lacey",
-					"percent": "99",
-					"hz": "360Hz"
-				},	
-
-      ],
-			"name": "Lacey Challenge",
-			"author": "gorgun [gorgun]",
-			"more": "none",
-			"id": 89653568,
-			"pass": "yok",
-			"percentToQualify": 57,
-			"verificationVid": "https://youtu.be/uRe5VE-91HI",
-			"key": 0
-		},
-
-
 
 
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
