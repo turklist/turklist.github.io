@@ -222,6 +222,27 @@ const d = {
 		
 		
 		],
+			"name": "Crowd Control",
+			"author": "zDeadlox [MArmada]",
+			"more": "none",
+			"id": 69491632,
+			"pass": "123456",
+			"percentToQualify": 60,
+			"verificationVid": "https://youtu.be/o2Y9VTd71i4",
+			"key": 10
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
 			"name": "Voided",
 			"author": "JustXSoos [Lacey]",
 			"more": "none",
@@ -229,7 +250,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/UHXG7lAtBTU",
-			"key": 10
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -250,7 +271,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 43,
 			"verificationVid": "https://youtu.be/aErFfVvk9sg",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -271,7 +292,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/uRe5VE-91HI",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -292,7 +313,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 71,
 			"verificationVid": "https://youtu.be/5AHZVXaqOP0",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -313,7 +334,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/YMniqYWW0AA",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -334,7 +355,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/8scMqjDZpJc",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -351,6 +372,12 @@ const d = {
 					"percent": "100",
 					"hz": "360Hz"
 				},	
+				{
+					"user": "MArmada",
+					"link": "https://youtu.be/DYtfGRJgGWI",
+					"percent": "100",
+					"hz": "300Hz"
+				},	
 		
 		
 		],
@@ -362,7 +389,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/_Lr3g76CZTM",
-			"key": 16
+			"key": 17
 		},
 
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
