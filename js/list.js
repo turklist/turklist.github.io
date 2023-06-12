@@ -4,10 +4,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "",
+					"user": "aaa",
 					"link": "",
-					"percent": "0",
-					"hz": ""
+					"percent": "100",
+					"hz": "240Hz"
 				},	
 
 
@@ -92,8 +92,8 @@ const d = {
 	],
 	"version": [
 		1,
-		0,
-		1
+		1,
+		0
 	]
 };
 
