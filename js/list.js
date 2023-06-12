@@ -4,10 +4,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "aaa",
+					"user": "",
 					"link": "",
-					"percent": "100",
-					"hz": "240Hz"
+					"percent": "",
+					"hz": ""
 				},	
 
 
@@ -84,7 +84,286 @@ const d = {
 			"verificationVid": "https://youtu.be/RqQTdOAMUuE",
 			"key": 3
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
 
+
+      ],
+			"name": "Killbot",
+			"author": "Lithifusion [Yarkii]",
+			"more": "none",
+			"id": 38754426,
+			"pass": "Yok",
+			"percentToQualify": 39,
+			"verificationVid": "https://youtu.be/dou1B2hio_Q",
+			"key": 4
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+
+
+      ],
+			"name": "Altered Ascent",
+			"author": "Genericqueso [youngs6]",
+			"more": "none",
+			"id": 60698989,
+			"pass": "Yok",
+			"percentToQualify": 54,
+			"verificationVid": "https://youtu.be/JEiSaZGOw6w",
+			"key": 5
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Lucid Chaos",
+			"author": "Dorami [Holojen]",
+			"more": "none",
+			"id": 62817170,
+			"pass": "Yok",
+			"percentToQualify": 61,
+			"verificationVid": "https://youtu.be/UkgBv1glo0o",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Hatred",
+			"author": "AZuLer4 [Yarkii]",
+			"more": "none",
+			"id": 27580467,
+			"pass": "Yok",
+			"percentToQualify": 54,
+			"verificationVid": "https://youtu.be/-sGiUIZB0OY",
+			"key": 7
+		},
+        /*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Blade of Justice",
+			"author": "LazerBlitz [Holojen]",
+			"more": "none",
+			"id": 35448603,
+			"pass": "Yok",
+			"percentToQualify": 50,
+			"verificationVid": "https://youtu.be/cblfAUG9U-I",
+			"key": 8
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "KINGSLAYER",
+			"author": "motheye [Lacey]",
+			"more": "none",
+			"id": 84813026,
+			"pass": "Yok",
+			"percentToQualify": 66,
+			"verificationVid": "https://youtu.be/jpvBBeVg9Yk",
+			"key": 9
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Voided",
+			"author": "JustXSoos [Lacey]",
+			"more": "none",
+			"id": 82598548,
+			"pass": "Yok",
+			"percentToQualify": 50,
+			"verificationVid": "https://youtu.be/UHXG7lAtBTU",
+			"key": 10
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "loop",
+			"author": "Darmuth [LYuri]",
+			"more": "none",
+			"id": 89156629,
+			"pass": "Yok",
+			"percentToQualify": 43,
+			"verificationVid": "https://youtu.be/aErFfVvk9sg",
+			"key": 11
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Azurite",
+			"author": "Sillow [Lacey]",
+			"more": "none",
+			"id": 62214792,
+			"pass": "Yok",
+			"percentToQualify": 66,
+			"verificationVid": "https://youtu.be/uRe5VE-91HI",
+			"key": 12
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Lost Love",
+			"author": "TheBlackHell [LYuri]",
+			"more": "none",
+			"id": 85933508,
+			"pass": "Yok",
+			"percentToQualify": 71,
+			"verificationVid": "https://youtu.be/5AHZVXaqOP0",
+			"key": 13
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Precipitance",
+			"author": "Extravagon [Lacey]",
+			"more": "none",
+			"id": 60197839,
+			"pass": "Yok",
+			"percentToQualify": 68,
+			"verificationVid": "https://youtu.be/YMniqYWW0AA",
+			"key": 14
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "phantasmagoria",
+			"author": "whlt [LYuri]",
+			"more": "none",
+			"id": 76670086,
+			"pass": "Yok",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/8scMqjDZpJc",
+			"key": 15
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "FONDLER",
+					"link": "https://youtu.be/_8LVCDAA_w8",
+					"percent": "100",
+					"hz": "120Hz"
+				},	
+				{
+					"user": "Lacey",
+					"link": "https://youtu.be/4xHosAH4g5Q",
+					"percent": "100",
+					"hz": "360Hz"
+				},	
+		
+		
+		],
+		
+			"name": "Acu",
+			"author": "Neigefeu [Holojen]",
+			"more": "none",
+			"id": 61079355,
+			"pass": "Yok",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/_Lr3g76CZTM",
+			"key": 16
+		},
 
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
