@@ -405,8 +405,20 @@ const d = {
 	"version": [
 		2,
 		0,
-		1
+		2
 	]
 };
 
-const list = d.list;const version = d.version;
+const list = d.list;
+const version = d.version;
+console.log(
+
+  );
+  
+  for (let x = 0; x < list.length; x++) {
+	if (x < 75) {
+	  list[x].key = x;
+	} else if (x >= 75) {
+	  list[x].legacykey = 0;
+	}
+  }

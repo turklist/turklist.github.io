@@ -104,8 +104,8 @@ function getUserData(user) {
     Swal.fire({
         title : "#"+(user+1)+" : "+user_data[user].name,
         html : '<center><strong>Score : '+user_data[user].point + '<br>'+
-            'Best Record : '+user_data[user].highest+'<br>'+
-            'Completed Levels : '+clears+' Level(s)<br>'+
+            'Hardest Level : '+user_data[user].highest+'<br>'+
+            'Geçilen Leveller : '+clears+' Level(s)<br>'+
             '<br>Record List : '+progresses+'<br>'+
             '</strong></center>'
     });
