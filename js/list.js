@@ -55,7 +55,7 @@ const d = {
 
       ],
 			"name": "Cybernetic Crescent",
-			"author": "Codex [Holojen]",
+			"author": "Viprin [Holojen]",
 			"more": "none",
 			"id": 66291197,
 			"pass": "010721",

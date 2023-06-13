@@ -57,9 +57,12 @@ header{
   padding: 0.5em 1em;
   background-color: rgb(53, 32, 31);
   border-radius: 1em;
-  color:#ff7e7e !important;
+  color:#ffffff !important;
   font-weight: bold;
   font-size: 1.1rem;
+}
+#FormHelp:hover{
+  background-color: rgb(87, 51, 49)
 }
 #pc-link {
   position: relative;
