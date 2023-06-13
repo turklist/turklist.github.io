@@ -214,6 +214,27 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Waxyss",
+					"link": "https://youtu.be/zZrTFpgnULk",
+					"percent": "100",
+					"hz": "240Hz"
+				},	
+		
+		
+		],
+			"name": "Glide",
+			"author": "crohn43 [Holojen]",
+			"more": "none",
+			"id": 55184818,
+			"pass": "Yok",
+			"percentToQualify": 58,
+			"verificationVid": "https://youtu.be/axbW_e0wtYc",
+			"key": 10
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "",
 					"link": "",
 					"percent": "0",
@@ -229,7 +250,7 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/o2Y9VTd71i4",
-			"key": 10
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -250,7 +271,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/UHXG7lAtBTU",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -271,7 +292,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 43,
 			"verificationVid": "https://youtu.be/aErFfVvk9sg",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -292,7 +313,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/uRe5VE-91HI",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -313,7 +334,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 71,
 			"verificationVid": "https://youtu.be/5AHZVXaqOP0",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -334,7 +355,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/YMniqYWW0AA",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -355,7 +376,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/8scMqjDZpJc",
-			"key": 16
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -395,7 +416,7 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/_Lr3g76CZTM",
-			"key": 17
+			"key": 18
 		},
 
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
