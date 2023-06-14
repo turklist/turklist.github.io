@@ -320,6 +320,27 @@ const d = {
 			"percentToQualify": 71,
 			"verificationVid": "https://youtu.be/5AHZVXaqOP0",
 		},
+		
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "niwa",
+			"author": "Teno [idkidk29804]",
+			"more": "none",
+			"id": 87425029,
+			"pass": "Yok",
+			"percentToQualify": 60,
+			"verificationVid": "https://youtu.be/NW50gQU6WZM",
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
@@ -341,6 +362,7 @@ const d = {
 			"verificationVid": "https://youtu.be/YMniqYWW0AA",
 		},
 		/*=================================================================================*/
+		
 		{
 			"vids": [
 				{

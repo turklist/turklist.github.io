@@ -366,8 +366,8 @@
                 if (entry.verificationVid !== null && entry.verificationVid !== "") {
                     $("#levelvid").html(`<hr><iframe title="YouTube Video" class="vid" height="47%" src="https://www.youtube.com/embed/${entry.verificationVid}?rel=0" frameborder="0" allowfullscreen></iframe>`);
                 }
-                $("#levelqualify").text(entry.percentToQualify + "% to Qualify");
-                $("#records-score").html(`<strong>Points when completed : ${getPoint(rank)}</strong>`);
+                $("#levelqualify").text("Record atabilmek için " + entry.percentToQualify + "% yap.");
+                $("#records-score").html(`<strong>Geçince Kazanılan Puan : ${getPoint(rank)}</strong>`);
                 $("#records-id").html(`<strong>Level ID : <i><u id="CopyID">${entry.id}</u></i></strong>`);
                 $("#records-pass").html(`<strong>Level Password : ${entry.pass}</strong>`);
                 $("#song").html(`<strong>Song Name: ${entry.song}</strong>`);
@@ -392,7 +392,7 @@
                 navigator.clipboard.writeText($("#CopyID").text());
                 Swal.fire({
                     icon: 'success',
-                    text: 'Level ID copied!',
+                    text: 'Level IDsi kopyalandı!',
                     color: "white",
                     background:
                         "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
