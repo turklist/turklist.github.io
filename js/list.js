@@ -19,7 +19,6 @@ const d = {
 			"pass": "060521",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/CD0OvUJleLc",
-			"key": 0
 		},
 		/*=================================================================================*/
 		{
@@ -40,7 +39,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 58,
 			"verificationVid": "https://youtu.be/tiMG6i-qawE",
-			"key": 1
 		},
 		/*=================================================================================*/
 		{
@@ -61,7 +59,6 @@ const d = {
 			"pass": "010721",
 			"percentToQualify": 55,
 			"verificationVid": "https://youtu.be/DtDEiq8ep9Y",
-			"key": 2
 		},
 		/*=================================================================================*/
 		{
@@ -82,7 +79,6 @@ const d = {
 			"pass": "010721",
 			"percentToQualify": 39,
 			"verificationVid": "https://youtu.be/RqQTdOAMUuE",
-			"key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -103,7 +99,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 39,
 			"verificationVid": "https://youtu.be/dou1B2hio_Q",
-			"key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -124,7 +119,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 54,
 			"verificationVid": "https://youtu.be/JEiSaZGOw6w",
-			"key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -145,7 +139,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 61,
 			"verificationVid": "https://youtu.be/UkgBv1glo0o",
-			"key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -166,7 +159,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 54,
 			"verificationVid": "https://youtu.be/-sGiUIZB0OY",
-			"key": 7
 		},
         /*=================================================================================*/
 		{
@@ -187,7 +179,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/cblfAUG9U-I",
-			"key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -208,7 +199,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/jpvBBeVg9Yk",
-			"key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -229,7 +219,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 58,
 			"verificationVid": "https://youtu.be/axbW_e0wtYc",
-			"key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -250,7 +239,6 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/o2Y9VTd71i4",
-			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -271,7 +259,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/UHXG7lAtBTU",
-			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -292,7 +279,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 43,
 			"verificationVid": "https://youtu.be/aErFfVvk9sg",
-			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -313,7 +299,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 66,
 			"verificationVid": "https://youtu.be/uRe5VE-91HI",
-			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -334,7 +319,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 71,
 			"verificationVid": "https://youtu.be/5AHZVXaqOP0",
-			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -355,7 +339,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 68,
 			"verificationVid": "https://youtu.be/YMniqYWW0AA",
-			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -376,7 +359,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/8scMqjDZpJc",
-			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -416,7 +398,6 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/_Lr3g76CZTM",
-			"key": 18
 		},
 
 /*only modify version with every MAJOR update (you can always check update number at https://github.com/electroflameofficial/gdshittylist/releases*/
@@ -425,7 +406,7 @@ const d = {
 	],
 	"version": [
 		2,
-		0,
+		1,
 		3
 	]
 };
