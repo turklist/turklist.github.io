@@ -207,7 +207,7 @@ const d = {
 					"user": "Waxyss",
 					"link": "https://youtu.be/zZrTFpgnULk",
 					"percent": "100",
-					"hz": "240Hz"
+					"hz": "240 FPS"
 				},	
 		
 		
@@ -224,10 +224,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "",
-					"link": "",
-					"percent": "0",
-					"hz": ""
+					"user": "Nurox",
+					"link": "https://youtu.be/lCKws5FnpIM",
+					"percent": "100",
+					"hz": "360 FPS"
 				},	
 		
 		
@@ -389,25 +389,25 @@ const d = {
 					"user": "FONDLER",
 					"link": "https://youtu.be/_8LVCDAA_w8",
 					"percent": "100",
-					"hz": "120Hz"
+					"hz": "120 FPS"
 				},	
 				{
 					"user": "Lacey",
 					"link": "https://youtu.be/4xHosAH4g5Q",
 					"percent": "100",
-					"hz": "360Hz"
+					"hz": "360 FPS"
 				},	
 				{
 					"user": "MArmada",
 					"link": "https://youtu.be/DYtfGRJgGWI",
 					"percent": "100",
-					"hz": "300Hz"
+					"hz": "300 FPS"
 				},	
 				{
 					"user": "Nurox",
 					"link": "https://youtu.be/IeTom1VNtLs",
 					"percent": "100",
-					"hz": "360Hz"
+					"hz": "360 FPS"
 				},	
 		
 		
@@ -429,7 +429,7 @@ const d = {
 	"version": [
 		2,
 		1,
-		3
+		4
 	]
 };
 
