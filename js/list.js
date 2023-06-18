@@ -224,21 +224,21 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "",
-					"link": "",
-					"percent": "0",
-					"hz": ""
+					"user": "RD24GD",
+					"link": "https://youtu.be/iKGECMUNW-E",
+					"percent": "100",
+					"hz": "360 FPS"
 				},	
 		
 		
 		],
 			"name": "Reanimate",
-			"author": "ILNM [RD24GD]",
+			"author": "ILNM [EvoPot]",
 			"more": "none",
 			"id": 80335620,
 			"pass": "Yok",
 			"percentToQualify": 55,
-			"verificationVid": "https://youtu.be/iKGECMUNW-E",
+			"verificationVid": "https://youtu.be/61135-xLerE",
 		},
 		/*=================================================================================*/
 		{
