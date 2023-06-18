@@ -224,6 +224,26 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Reanimate",
+			"author": "ILNM [RD24GD]",
+			"more": "none",
+			"id": 80335620,
+			"pass": "Yok",
+			"percentToQualify": 55,
+			"verificationVid": "https://youtu.be/iKGECMUNW-E",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Nurox",
 					"link": "https://youtu.be/lCKws5FnpIM",
 					"percent": "100",
@@ -239,6 +259,26 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/o2Y9VTd71i4",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Artificial Dream",
+			"author": "Viruz [RD24GD]",
+			"more": "none",
+			"id": 27122654,
+			"pass": "Yok",
+			"percentToQualify": 50,
+			"verificationVid": "https://youtu.be/EAsX67sr-Zw",
 		},
 		/*=================================================================================*/
 		{
@@ -342,13 +382,33 @@ const d = {
 			"verificationVid": "https://youtu.be/NW50gQU6WZM",
 		},
 		/*=================================================================================*/
+				{
+					"vids": [
+						{
+							"user": "",
+							"link": "",
+							"percent": "0",
+							"hz": ""
+						},	
+				
+				
+				],
+					"name": "Incipient",
+					"author": "Jenkins [RD24GD]",
+					"more": "none",
+					"id": 32688321,
+					"pass": "Yok",
+					"percentToQualify": 60,
+					"verificationVid": "https://youtu.be/EIx4lX2UsjE",
+				},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
-					"user": "",
-					"link": "",
-					"percent": "0",
-					"hz": ""
+					"user": "RD24GD",
+					"link": "https://youtu.be/ON8mvkTqJgo",
+					"percent": "100",
+					"hz": "360 FPS"
 				},	
 		
 		
@@ -383,14 +443,54 @@ const d = {
 			"verificationVid": "https://youtu.be/8scMqjDZpJc",
 		},
 		/*=================================================================================*/
+				{
+					"vids": [
+						{
+							"user": "",
+							"link": "",
+							"percent": "0",
+							"hz": ""
+						},	
+				
+				
+				],
+					"name": "Helios",
+					"author": "Canonlaw [RD24GD]",
+					"more": "none",
+					"id": 71728635,
+					"pass": "Yok",
+					"percentToQualify": 55,
+					"verificationVid": "https://youtu.be/ItK65iJlUXo",
+				},
+		/*=================================================================================*/
+						{
+							"vids": [
+								{
+									"user": "",
+									"link": "",
+									"percent": "0",
+									"hz": ""
+								},	
+						
+						
+						],
+							"name": "Deception Dive",
+							"author": "Rustam [RD24GD]",
+							"more": "none",
+							"id": 34379100,
+							"pass": "Yok",
+							"percentToQualify": 60,
+							"verificationVid": "https://youtu.be/eM-KMPAztUA",
+						},
+		/*=================================================================================*/
 				
 		{
 			"vids": [
 				{
-					"user": "",
-					"link": "",
-					"percent": "0",
-					"hz": ""
+					"user": "RD24GD",
+					"link": "https://youtu.be/mIWvUkSZoYQ",
+					"percent": "100",
+					"hz": "360 FPS"
 				},	
 		
 		
@@ -402,6 +502,27 @@ const d = {
 			"pass": "Yok",
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/fyMlA8Y_A3Y",
+		},
+		
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "",
+					"link": "",
+					"percent": "0",
+					"hz": ""
+				},	
+		
+		
+		],
+			"name": "Make It Drop",
+			"author": "Ryamu [RD24GD]",
+			"more": "none",
+			"id": 75518661,
+			"pass": "Yok",
+			"percentToQualify": 55,
+			"verificationVid": "https://youtu.be/mIWvUkSZoYQ",
 		},
 		/*=================================================================================*/
 		{
@@ -430,6 +551,13 @@ const d = {
 					"percent": "100",
 					"hz": "360 FPS"
 				},	
+				{
+					"user": "RD24GD",
+					"link": "https://youtu.be/rkz8AunvSx8",
+					"percent": "100",
+					"hz": "360 FPS"
+				},	
+		
 		
 		
 		],
