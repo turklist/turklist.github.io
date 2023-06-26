@@ -258,7 +258,7 @@ const d = {
 					"id": 56089612,
 					"pass": "Yok",
 					"percentToQualify": 67,
-					"verificationVid": "https://youtu.be/o2Y9VTd71i4",
+					"verificationVid": "https://youtu.be/Ji8yf2Nmo78",
 				},
 		/*=================================================================================*/
 		{
