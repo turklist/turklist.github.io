@@ -241,6 +241,26 @@ const d = {
 			"verificationVid": "https://youtu.be/61135-xLerE",
 		},
 		/*=================================================================================*/
+				{
+					"vids": [
+						{
+							"user": "",
+							"link": "",
+							"percent": "",
+							"hz": ""
+						},	
+				
+				
+				],
+					"name": "Zettabyte",
+					"author": "idkidk29804 [Jenkins]",
+					"more": "none",
+					"id": 56089612,
+					"pass": "Yok",
+					"percentToQualify": 67,
+					"verificationVid": "https://youtu.be/o2Y9VTd71i4",
+				},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
