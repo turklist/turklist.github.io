@@ -253,7 +253,7 @@ const d = {
 				
 				],
 					"name": "Zettabyte",
-					"author": "idkidk29804 [Jenkins]",
+					"author": "Jenkins [idkidk29804]",
 					"more": "none",
 					"id": 56089612,
 					"pass": "Yok",
