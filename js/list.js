@@ -177,7 +177,7 @@ const d = {
 			"more": "none",
 			"id": 35448603,
 			"pass": "Yok",
-			"percentToQualify": 50,
+			"percentToQualify": 58,
 			"verificationVid": "https://youtu.be/cblfAUG9U-I",
 		},
 		/*=================================================================================*/
