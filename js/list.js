@@ -523,7 +523,26 @@ const d = {
 			"percentToQualify": 64,
 			"verificationVid": "https://youtu.be/fyMlA8Y_A3Y",
 		},
-		
+		/*=================================================================================*/
+				{
+					"vids": [
+						{
+							"user": "",
+							"link": "",
+							"percent": "0",
+							"hz": ""
+						},	
+				
+				
+				],
+					"name": "KETAMINE",
+					"author": "Furky04 [LYuri]",
+					"more": "none",
+					"id": 90772080,
+					"pass": "Yok",
+					"percentToQualify": 50,
+					"verificationVid": "https://youtu.be/aeZnRcxx--I",
+				},
 		/*=================================================================================*/
 		{
 			"vids": [
