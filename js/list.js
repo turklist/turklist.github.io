@@ -635,9 +635,9 @@ console.log(
   );
   
   for (let x = 0; x < list.length; x++) {
-	if (x < 75) {
+	if (x < 30) {
 	  list[x].key = x;
-	} else if (x >= 75) {
+	} else if (x >= 30) {
 	  list[x].legacykey = 0;
 	}
   }
