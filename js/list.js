@@ -596,6 +596,13 @@ const d = {
 					"percent": "100",
 					"hz": "360 FPS"
 				},	
+				{
+					"user": "LYuri",
+					"link": "https://youtu.be/436JpY42brE",
+					"percent": "100",
+					"hz": "240 FPS"
+				},	
+				
 		
 		
 		
