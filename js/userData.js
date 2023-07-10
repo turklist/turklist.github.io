@@ -110,7 +110,7 @@ function getUserData(user) {
             color: "white",
       background:
         "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
-      confirmButtonColor: "#223158",
+      confirmButtonColor: "#fa8039",
     });
 
 }
