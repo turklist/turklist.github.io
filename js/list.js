@@ -584,6 +584,26 @@ const d = {
 			"verificationVid": "https://youtu.be/mIWvUkSZoYQ",
 		},
 		/*=================================================================================*/
+				{
+					"vids": [
+						{
+							"user": "",
+							"link": "",
+							"percent": "0",
+							"hz": ""
+						},	
+				
+				
+				],
+					"name": "Forbidden Isle",
+					"author": "Sillow [WaxySs]",
+					"more": "none",
+					"id": 63775846,
+					"pass": "Yok",
+					"percentToQualify": 70,
+					"verificationVid": "https://youtu.be/5qQcj-uFDV4",
+				},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
