@@ -313,19 +313,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			vids: [
- 
-		],
-			name: "Azurite",
-			author: "Sillow [Lacey]",
-			more: "none",
-			id: 62214792,
-			pass: "Yok",
-			percentToQualify: 66,
-			verificationVid: "https://youtu.be/uRe5VE-91HI",
-		},
-		/*=================================================================================*/
-		{
-			vids: [
 
 		],
 			name: "Lost Love",
@@ -410,6 +397,19 @@ const d = {
 			percentToQualify: 63,
 			verificationVid: "https://youtu.be/8scMqjDZpJc",
 		},
+		/*=================================================================================*/
+				{
+					vids: [
+		 
+				],
+					name: "Azurite",
+					author: "Sillow [Lacey]",
+					more: "none",
+					id: 62214792,
+					pass: "Yok",
+					percentToQualify: 66,
+					verificationVid: "https://youtu.be/uRe5VE-91HI",
+				},
 		/*=================================================================================*/
 				{
 					vids: [
