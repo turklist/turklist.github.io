@@ -52,19 +52,19 @@ const d = {
 			percentToQualify: 39,
 			verificationVid: "https://youtu.be/RqQTdOAMUuE",
 		},
-		/*=================================================================================*/
-		{
-			vids: [
-
-      ],
-			name: "Killbot",
-			author: "Lithifusion [Yarkii]",
-			more: "none",
-			id: 38754426,
-			pass: "Yok",
-			percentToQualify: 39,
-			verificationVid: "https://youtu.be/dou1B2hio_Q",
-		},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Artifical Ascent",
+					author: "Viprin [Quadra33]",
+					more: "none",
+					id: 27122654,
+					pass: "Yok",
+					percentToQualify: 64,
+					verificationVid: "https://youtu.be/sIxjjosY7CI",
+				},
 		/*=================================================================================*/
 		{
 			vids: [
@@ -91,6 +91,19 @@ const d = {
 			percentToQualify: 61,
 			verificationVid: "https://youtu.be/UkgBv1glo0o",
 		},
+		/*=================================================================================*/
+				{
+					vids: [
+		
+			  ],
+					name: "Killbot",
+					author: "Lithifusion [Yarkii]",
+					more: "none",
+					id: 38754426,
+					pass: "Yok",
+					percentToQualify: 39,
+					verificationVid: "https://youtu.be/dou1B2hio_Q",
+				},
 		/*=================================================================================*/
 		{
 			vids: [
@@ -119,6 +132,32 @@ const d = {
 			percentToQualify: 58,
 			verificationVid: "https://youtu.be/cblfAUG9U-I",
 		},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Phobos",
+					author: "Krmal [Quadra33]",
+					more: "none",
+					id: 19759411,
+					pass: "Yok",
+					percentToQualify: 62,
+					verificationVid: "https://youtu.be/cs_ZBc5Ka8A",
+				},
+		/*=================================================================================*/	
+						{
+							vids: [
+						
+						],
+							name: "Fusion Z",
+							author: "PlebKingdom [Quadra33]",
+							more: "none",
+							id: 59933468,
+							pass: "Yok",
+							percentToQualify: 69,
+							verificationVid: "https://youtu.be/cVpt89oXlZU",
+						},
 		/*=================================================================================*/
 				{
 					vids: [
@@ -131,6 +170,19 @@ const d = {
 					pass: "Yok",
 					percentToQualify: 63,
 					verificationVid: "https://youtu.be/1oI4UKyGejY",
+				},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Marathon",
+					author: "weoweoteo [Quadra33]",
+					more: "none",
+					id: 57595201,
+					pass: "Yok",
+					percentToQualify: 55,
+					verificationVid: "https://youtu.be/db1Q1CuQ6Pw",
 				},
 		/*=================================================================================*/
 		{
