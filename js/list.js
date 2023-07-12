@@ -433,7 +433,7 @@ const d = {
 							more: "none",
 							id: 34379100,
 							pass: "Yok",
-							percentToQualify: 60,
+							percentToQualify: 100,
 							verificationVid: "https://youtu.be/eM-KMPAztUA",
 						},
 		/*=================================================================================*/
@@ -454,7 +454,7 @@ const d = {
 			more: "none",
 			id: 3979721,
 			pass: "Yok",
-			percentToQualify: 64,
+			percentToQualify: 100,
 			verificationVid: "https://youtu.be/fyMlA8Y_A3Y",
 		},
 		/*=================================================================================*/
@@ -467,7 +467,7 @@ const d = {
 			more: "none",
 			id: 75518661,
 			pass: "Yok",
-			percentToQualify: 55,
+			percentToQualify: 100,
 			verificationVid: "https://youtu.be/mIWvUkSZoYQ",
 		},
 		/*=================================================================================*/
@@ -480,7 +480,7 @@ const d = {
 					more: "none",
 					id: 63775846,
 					pass: "Yok",
-					percentToQualify: 70,
+					percentToQualify: 100,
 					verificationVid: "https://youtu.be/5qQcj-uFDV4",
 				},
 		/*=================================================================================*/
