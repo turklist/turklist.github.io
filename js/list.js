@@ -52,19 +52,6 @@ const d = {
 			percentToQualify: 39,
 			verificationVid: "https://youtu.be/RqQTdOAMUuE",
 		},
-		/*=================================================================================*/	
-				{
-					vids: [
-				
-				],
-					name: "Artifical Ascent",
-					author: "Viprin [Quadra33]",
-					more: "none",
-					id: 27122654,
-					pass: "Yok",
-					percentToQualify: 64,
-					verificationVid: "https://youtu.be/sIxjjosY7CI",
-				},
 		/*=================================================================================*/
 		{
 			vids: [
@@ -78,6 +65,19 @@ const d = {
 			percentToQualify: 54,
 			verificationVid: "https://youtu.be/JEiSaZGOw6w",
 		},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Artifical Ascent",
+					author: "Viprin [Quadra33]",
+					more: "none",
+					id: 27122654,
+					pass: "Yok",
+					percentToQualify: 64,
+					verificationVid: "https://youtu.be/sIxjjosY7CI",
+				},
 		/*=================================================================================*/
 		{
 			vids: [
