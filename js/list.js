@@ -150,6 +150,19 @@ const d = {
 							vids: [
 						
 						],
+							name: "moment",
+							author: "lexycat [LYuri]",
+							more: "icedcave",
+							id: 68848817,
+							pass: "Yok!",
+							percentToQualify: 49,
+							verificationVid: "https://youtu.be/Rwv8ONZqzHY",
+						},
+		/*=================================================================================*/	
+						{
+							vids: [
+						
+						],
 							name: "Fusion Z",
 							author: "PlebKingdom [Quadra33]",
 							more: "none",
