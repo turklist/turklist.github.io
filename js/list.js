@@ -198,6 +198,19 @@ const d = {
 			verificationVid: "https://youtu.be/jpvBBeVg9Yk",
 		},
 		/*=================================================================================*/
+				{
+					vids: [
+		 
+				],
+					name: "TROLLMACHINE",
+					author: "TROLLM4CHİNE [Hoklaus]",
+					more: "none",
+					id: 84325817,
+					pass: "Yok",
+					percentToQualify: 66,
+					verificationVid: "https://youtu.be/WUPwXZAffso",
+				},
+		/*=================================================================================*/
 		{
 			vids: [
 				{
