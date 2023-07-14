@@ -176,6 +176,19 @@ const d = {
 					vids: [
 
 				],
+					name: "Aftermath",
+					author: "IIExenityII [WaxySs]",
+					more: "none",
+					id: 25610878,
+					pass: "Yok",
+					percentToQualify: 55,
+					verificationVid: "https://youtu.be/uzcCkCqhn4M",
+				},
+		/*=================================================================================*/
+				{
+					vids: [
+
+				],
 					name: "Warning",
 					author: "TwisterDude161 [MArmada]",
 					more: "none",
@@ -214,7 +227,7 @@ const d = {
 		{
 			vids: [
 				{
-					user: "Waxyss",
+					user: "WaxySs",
 					link: "https://youtu.be/zZrTFpgnULk",
 					percent: "100",
 					hz: "240 FPS"
