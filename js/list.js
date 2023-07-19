@@ -197,19 +197,6 @@ const d = {
 					percentToQualify: 63,
 					verificationVid: "https://youtu.be/1oI4UKyGejY",
 				},
-		/*=================================================================================*/	
-				{
-					vids: [
-				
-				],
-					name: "Marathon",
-					author: "weoweoteo [Quadra33]",
-					more: "none",
-					id: 57595201,
-					pass: "Yok",
-					percentToQualify: 55,
-					verificationVid: "https://youtu.be/db1Q1CuQ6Pw",
-				},
 		/*=================================================================================*/
 		{
 			vids: [
@@ -223,6 +210,19 @@ const d = {
 			percentToQualify: 63,
 			verificationVid: "https://youtu.be/BeKh4FDwdKI",
 		},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Marathon",
+					author: "weoweoteo [Quadra33]",
+					more: "none",
+					id: 57595201,
+					pass: "Yok",
+					percentToQualify: 55,
+					verificationVid: "https://youtu.be/db1Q1CuQ6Pw",
+				},
 		/*=================================================================================*/
 		{
 			vids: [
