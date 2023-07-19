@@ -215,6 +215,19 @@ const d = {
 			vids: [
 
 		],
+			name: "U235",
+			author: "Oleki [WaxySs]",
+			more: "none",
+			id: 83357887,
+			pass: "Yok",
+			percentToQualify: 63,
+			verificationVid: "https://youtu.be/BeKh4FDwdKI",
+		},
+		/*=================================================================================*/
+		{
+			vids: [
+
+		],
 			name: "KINGSLAYER",
 			author: "motheye [Lacey]",
 			more: "none",
