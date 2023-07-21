@@ -187,7 +187,12 @@ const d = {
 		/*=================================================================================*/
 				{
 					vids: [
-
+						{
+							user: "WaxySs",
+							link: "https://youtu.be/OSeEaVJwMiY",
+							percent: "100",
+							hz: "300 FPS"
+						},	
 				],
 					name: "Warning",
 					author: "TwisterDude161 [MArmada]",
