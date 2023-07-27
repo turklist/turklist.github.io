@@ -421,6 +421,19 @@ const d = {
 							verificationVid: "https://youtu.be/aeZnRcxx--I",
 						},
 		/*=================================================================================*/
+								{
+									vids: [
+		
+								],
+									name: "FISH FISH GODMODE",
+									author: "CatliestYT [LYuri]",
+									more: "none",
+									id: 89807521,
+									pass: "Yok",
+									percentToQualify: 64,
+									verificationVid: "https://youtu.be/mU_WgzXRwA8",
+								},
+		/*=================================================================================*/
 		{
 			vids: [
 				{
