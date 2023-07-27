@@ -437,7 +437,7 @@ const d = {
 			more: "none",
 			id: 60197839,
 			pass: "Yok",
-			percentToQualify: 68,
+			percentToQualify: 100,
 			verificationVid: "https://youtu.be/YMniqYWW0AA",
 		},
 		/*=================================================================================*/
@@ -451,7 +451,7 @@ const d = {
 			more: "none",
 			id: 76670086,
 			pass: "Yok",
-			percentToQualify: 63,
+			percentToQualify: 100,
 			verificationVid: "https://youtu.be/8scMqjDZpJc",
 		},
 		/*=================================================================================*/
@@ -464,7 +464,7 @@ const d = {
 					more: "none",
 					id: 62214792,
 					pass: "Yok",
-					percentToQualify: 66,
+					percentToQualify: 100,
 					verificationVid: "https://youtu.be/uRe5VE-91HI",
 				},
 		/*=================================================================================*/
@@ -477,7 +477,7 @@ const d = {
 					more: "none",
 					id: 71728635,
 					pass: "Yok",
-					percentToQualify: 73,
+					percentToQualify: 100,
 					verificationVid: "https://youtu.be/ItK65iJlUXo",
 				},
 		/*=================================================================================*/
@@ -598,7 +598,7 @@ const d = {
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 
 	],
-	version: [2, 1, 4],
+	version: [2, 2, 4],
 };
 
 const list = d.list;
@@ -608,9 +608,9 @@ console.log(
   );
   
   for (let x = 0; x < list.length; x++) {
-	if (x < 30) {
+	if (x < 50) {
 	  list[x].key = x;
-	} else if (x >= 30) {
+	} else if (x >= 50) {
 	  list[x].legacykey = 0;
 	}
   }
