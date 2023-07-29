@@ -97,6 +97,19 @@ const d = {
 			percentToQualify: 61,
 			verificationVid: "https://youtu.be/UkgBv1glo0o",
 		},
+		/*=================================================================================*/	
+				{
+					vids: [
+				
+				],
+					name: "Digital Descent",
+					author: "Viprin [youngs6]",
+					more: "none",
+					id: 37456092,
+					pass: "Yok",
+					percentToQualify: 69,
+					verificationVid: "https://youtu.be/kWa02X4z_TI",
+				},
 		/*=================================================================================*/
 				{
 					vids: [
@@ -151,6 +164,19 @@ const d = {
 					percentToQualify: 62,
 					verificationVid: "https://youtu.be/cs_ZBc5Ka8A",
 				},
+		/*=================================================================================*/	
+						{
+							vids: [
+						
+						],
+							name: "Prismatic Haze",
+							author: "Cirtrax [youngs6]",
+							more: "Gizbro",
+							id: 59899374,
+							pass: "Yok",
+							percentToQualify: 64,
+							verificationVid: "https://youtu.be/0cKiOap2o7k",
+						},
 		/*=================================================================================*/	
 						{
 							vids: [
@@ -390,14 +416,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			vids: [
-
+				{
+					user: "youngs6",
+					link: "https://youtu.be/rv1IuSOePWI",
+					percent: "100",
+					hz: "360 FPS"
+				},	
+				
 		],
 			name: "niwa",
 			author: "Teno [idkidk29804]",
 			more: "none",
 			id: 87425029,
 			pass: "Yok",
-			percentToQualify: 60,
+			percentToQualify: 100,
 			verificationVid: "https://youtu.be/NW50gQU6WZM",
 		},
 		/*=================================================================================*/
@@ -410,7 +442,7 @@ const d = {
 					more: "none",
 					id: 32688321,
 					pass: "Yok",
-					percentToQualify: 60,
+					percentToQualify: 100,
 					verificationVid: "https://youtu.be/EIx4lX2UsjE",
 				},
 		/*=================================================================================*/
@@ -423,7 +455,7 @@ const d = {
 							more: "none",
 							id: 90772080,
 							pass: "Yok",
-							percentToQualify: 50,
+							percentToQualify: 100,
 							verificationVid: "https://youtu.be/aeZnRcxx--I",
 						},
 		/*=================================================================================*/
@@ -487,8 +519,27 @@ const d = {
 					verificationVid: "https://youtu.be/uRe5VE-91HI",
 				},
 		/*=================================================================================*/
+		{
+			vids: [
+
+		],
+			name: "Brimtanic Paradise",
+			author: "zYuko [youngs6]",
+			more: "none",
+			id: 59535791,
+			pass: "Yok",
+			percentToQualify: 100,
+			verificationVid: "https://youtu.be/8scMqjDZpJc",
+		},
+		/*=================================================================================*/
 				{
 					vids: [
+						{
+							user: "Azurite",
+							link: "https://youtu.be/mIWvUkSZoYQ",
+							percent: "100",
+							hz: "144 FPS"
+						},	
 
 				],
 					name: "Helios",
