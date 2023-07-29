@@ -535,7 +535,7 @@ const d = {
 				{
 					vids: [
 						{
-							user: "Azurite",
+							user: "Pisagor",
 							link: "https://youtu.be/mIWvUkSZoYQ",
 							percent: "100",
 							hz: "144 FPS"
