@@ -68,6 +68,12 @@ const d = {
 		/*=================================================================================*/	
 				{
 					vids: [
+						{
+							user: "youngs6",
+							link: "https://youtu.be/okSapyoJFYg",
+							percent: "100",
+							hz: "360 FPS"
+						},	
 				
 				],
 					name: "Artifical Ascent",
