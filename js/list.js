@@ -529,7 +529,7 @@ const d = {
 			id: 59535791,
 			pass: "Yok",
 			percentToQualify: 100,
-			verificationVid: "https://youtu.be/8scMqjDZpJc",
+			verificationVid: "https://youtu.be/1nT4itqDrIo",
 		},
 		/*=================================================================================*/
 				{
