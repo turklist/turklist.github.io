@@ -172,13 +172,13 @@ function userList() {
     Swal.fire({
         title : "#"+(user+1)+" : "+user_data[user].name,
         html : '<center><strong>Skor : '+user_data[user].point + '<br>'+
-            'Geçilen Leveller : '+clears+' Level(s)<br>'+
-            '<br>Record List : '+progresses+'<br>'+
+            'Geçilen Leveller : '+clears+' Level<br>'+
+            '<br>Record Listesi : '+progresses+'<br>'+
             '</strong></center>',
             color: "white",
       background:
         "linear-gradient(311.7deg, rgb(31, 34, 53)35%, rgb(29, 31, 49)35%, rgb(29, 31, 49)65% , rgb(26, 28, 44)65%)",
-      confirmButtonColor: "#fa8039",
+      confirmButtonColor: "#C89A90",
     });
 
 }
